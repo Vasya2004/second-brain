@@ -1,0 +1,10 @@
+# Obsidian служебные файлы
+.obsidian/
+
+# macOS
+.DS_Store
+Icon
+Icon?
+
+# Заметки/.obsidian (если есть)
+Заметки/.obsidian/
